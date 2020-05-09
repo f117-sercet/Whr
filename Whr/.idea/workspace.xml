@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54d045d5-448c-4194-bba5-7d3ee229db70" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\maven\repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\java\maven\apache-maven-3.6.3\conf\logging\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1baEZ2smTVUjTtpMu3esP2ZYaxx" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MailServeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="whr-mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.mailserve.MailServeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54d045d5-448c-4194-bba5-7d3ee229db70" name="Default Changelist" comment="" />
+      <created>1588861855379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588861855379</updated>
+      <workItem from="1588861858050" duration="226000" />
+      <workItem from="1588862152200" duration="24000" />
+      <workItem from="1588862229098" duration="191000" />
+      <workItem from="1588993248569" duration="408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Project_Structure" timestamp="1588993645708">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588993645708" />
+    <state x="665" y="173" key="FileChooserDialogImpl" timestamp="1588993428834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="665" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588993428834" />
+    <state x="524" y="172" key="NewModule_or_Project.wizard" timestamp="1588993454979">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="172" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1588993454979" />
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1588993328263">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1588993328263" />
+    <state x="294" y="45" key="new project wizard" timestamp="1588993409590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="294" y="45" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1588993409590" />
+  </component>
+</project>

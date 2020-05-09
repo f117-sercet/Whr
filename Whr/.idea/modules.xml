@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Whr.iml" filepath="$PROJECT_DIR$/Whr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-mapper/Whr-mapper.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-mapper/Whr-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-model/Whr-model.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-model/Whr-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-server.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-service/Whr-service.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-service/Whr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-web/Whr-web.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-web/Whr-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-web/src/main/main.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-web/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Whr-server/Whr-web/src/test/test.iml" filepath="$PROJECT_DIR$/Whr-server/Whr-web/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/whr-mailserver/whr-mailserver.iml" filepath="$PROJECT_DIR$/whr-mailserver/whr-mailserver.iml" />
+    </modules>
+  </component>
+</project>

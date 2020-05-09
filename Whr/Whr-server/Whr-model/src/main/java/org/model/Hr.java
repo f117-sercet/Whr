@@ -1,0 +1,133 @@
+package org.model;
+
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import org.springframework.security.core.GrantedAuthority;
+import org.springframework.security.core.authority.SimpleGrantedAuthority;
+import org.springframework.security.core.userdetails.UserDetails;
+
+import javax.management.relation.Role;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+public class Hr implements UserDetails {
+    private Long id;
+    private  String name;
+    private String telephone;
+    private  String address;
+    private  boolean enabled;
+    private  String  username;
+    private String   password;
+    private  String   remark;
+    private List<Role> roles;
+    private  String    userface;
+
+
+    public Collection<? extends GrantedAuthority> getAuthorities() {
+        List<GrantedAuthority> authorities=new ArrayList<GrantedAuthority>();
+        for(Role role:roles){
+            authorities.add(new SimpleGrantedAuthority(role.getRoleName()));
+        }
+        return authorities;
+    }
+     @JsonIgnore
+     @Override
+    public String getPassword() {
+        return password;
+    }
+
+    public String getUsername() {
+        return username;
+    }
+     @JsonIgnore
+     @Override
+    public boolean isAccountNonExpired() {
+        return true;
+    }
+      @JsonIgnore
+      @Override
+    public boolean isAccountNonLocked() {
+        return  true;
+    }
+    @JsonIgnore
+    @Override
+    public boolean isCredentialsNonExpired() {
+        return true;
+    }
+     @Override
+    public boolean isEnabled() {
+        return enabled;
+    }
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getTelephone() {
+        return telephone;
+    }
+
+    public void setTelephone(String telephone) {
+        this.telephone = telephone;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    public boolean isEnable() {
+        return enabled;
+    }
+
+    public void setEnable(boolean enable) {
+        this.enabled = enabled;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
+
+    public void setPassword(String password) {
+        this.password = password;
+    }
+
+    public String getRemark() {
+        return remark;
+    }
+
+    public void setRemark(String remark) {
+        this.remark = remark;
+    }
+
+    public List<Role> getRoles() {
+        return roles;
+    }
+
+    public void setRoles(List<Role> roles) {
+        this.roles = roles;
+    }
+
+    public String getUserface() {
+        return userface;
+    }
+
+    public void setUserface(String userface) {
+        this.userface = userface;
+    }
+}
