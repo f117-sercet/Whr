@@ -13,6 +13,8 @@
         <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
       </list>
     </option>
   </component>
@@ -45,8 +47,8 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunAnythingCache">
@@ -84,6 +86,7 @@
       <workItem from="1589464065126" duration="427000" />
       <workItem from="1589533435629" duration="272000" />
       <workItem from="1589618526804" duration="160000" />
+      <workItem from="1589790756125" duration="1519000" />
     </task>
     <servers />
   </component>
@@ -91,10 +94,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="71" key="#Project_Structure" timestamp="1589378662408">
+    <state x="521" y="118" key="#Project_Structure" timestamp="1589791983800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589378662408" />
+    <state x="521" y="118" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589791983800" />
+    <state x="668" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1589791572461">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="668" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589791572461" />
     <state x="665" y="173" key="FileChooserDialogImpl" timestamp="1589533497858">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -115,6 +122,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="768" height="218" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589379388993" />
+    <state x="393" y="82" key="Maven.ArtifactSearchDialog" timestamp="1589791779687">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="393" y="82" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1589791779687" />
     <state x="524" y="172" key="NewModule_or_Project.wizard" timestamp="1589533501355">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -15,9 +15,7 @@ public class MailServeApplication {
 
     }
 
-    @Bean
-    Queue queue() {
-        return new Queue(MailConstants.MAIL_QUEUE_NAME);
+    Queue(MailConstants.MAIL_QUEUE_NAME);
     }
 }
 
