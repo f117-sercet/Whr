@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="Whr-server" />
     <orderEntry type="module" module-name="Whr-service" />
     <orderEntry type="module" module-name="Whr-model" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-web:5.2.4.RELEASE" level="project" />
   </component>
 </module>

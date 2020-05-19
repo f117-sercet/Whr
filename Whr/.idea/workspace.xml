@@ -87,6 +87,7 @@
       <workItem from="1589533435629" duration="272000" />
       <workItem from="1589618526804" duration="160000" />
       <workItem from="1589790756125" duration="1519000" />
+      <workItem from="1589881267604" duration="870000" />
     </task>
     <servers />
   </component>
@@ -94,10 +95,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="521" y="118" key="#Project_Structure" timestamp="1589791983800">
+    <state x="521" y="118" key="#Project_Structure" timestamp="1589882021820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="521" y="118" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589791983800" />
+    <state x="521" y="118" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589882021820" />
     <state x="668" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1589791572461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
