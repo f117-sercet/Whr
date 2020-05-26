@@ -45,6 +45,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -88,6 +94,9 @@
       <workItem from="1589618526804" duration="160000" />
       <workItem from="1589790756125" duration="1519000" />
       <workItem from="1589881267604" duration="870000" />
+      <workItem from="1590137189830" duration="603000" />
+      <workItem from="1590245373307" duration="119000" />
+      <workItem from="1590482050519" duration="675000" />
     </task>
     <servers />
   </component>
@@ -131,10 +140,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="172" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1589533501355" />
-    <state x="565" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1589533433416">
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1590245409320">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="565" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589533433416" />
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590245409320" />
     <state x="294" y="45" key="new project wizard" timestamp="1588993409590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
