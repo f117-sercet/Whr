@@ -97,6 +97,7 @@
       <workItem from="1590137189830" duration="603000" />
       <workItem from="1590245373307" duration="119000" />
       <workItem from="1590482050519" duration="675000" />
+      <workItem from="1590572332231" duration="902000" />
     </task>
     <servers />
   </component>
@@ -108,14 +109,18 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="521" y="118" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589882021820" />
+    <state x="775" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590572867317">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="775" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590572867316" />
     <state x="668" y="142" key="#com.intellij.ide.util.MemberChooser" timestamp="1589791572461">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="668" y="142" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1589791572461" />
-    <state x="665" y="173" key="FileChooserDialogImpl" timestamp="1589533497858">
+    <state x="665" y="173" key="FileChooserDialogImpl" timestamp="1590572583158">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="665" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589533497858" />
+    <state x="665" y="173" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1590572583158" />
     <state width="768" height="218" key="GridCell.Tab.0.bottom" timestamp="1589379388993">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -136,14 +141,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="393" y="82" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1589791779687" />
-    <state x="524" y="172" key="NewModule_or_Project.wizard" timestamp="1589533501355">
+    <state x="524" y="172" key="NewModule_or_Project.wizard" timestamp="1590572596358">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="524" y="172" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1589533501355" />
-    <state x="565" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1590245409320">
+    <state x="524" y="172" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1590572596358" />
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog" timestamp="1590572442427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="565" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590245409320" />
+    <state x="565" y="298" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590572442427" />
     <state x="294" y="45" key="new project wizard" timestamp="1588993409590">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
