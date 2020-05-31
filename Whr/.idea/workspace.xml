@@ -44,6 +44,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src1/views/sys" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -56,6 +57,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\java\java idea\Whr\src1\views\sys" />
+    </key>
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -100,6 +106,7 @@
       <workItem from="1590572332231" duration="902000" />
       <workItem from="1590655930991" duration="474000" />
       <workItem from="1590849659969" duration="477000" />
+      <workItem from="1590913841555" duration="845000" />
     </task>
     <servers />
   </component>
