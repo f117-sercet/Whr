@@ -24,8 +24,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Whr-mapper" />
-    <orderEntry type="module" module-name="Whr-model" />
-    <orderEntry type="module" module-name="Whr-mapper" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-data-redis:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-cache:unknown" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-amqp:unknown" level="project" />
